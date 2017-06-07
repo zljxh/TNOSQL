@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TNOSQL:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="t-nosql.war">
+      <element id="artifact" artifact-name="TNOSQL:war exploded" />
+    </root>
+  </artifact>
+</component>
