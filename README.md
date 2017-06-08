@@ -19,4 +19,4 @@ CREATE TABLE `t_user` (
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8
 
 
-测试websocket 可以用用我的android_okhttp_websocket项目即可连上。
+##测试websocket 可以用用我的[android_okhttp_websocket](https://github.com/zljxh/android_okhttp_websocket)项目即可连上。
