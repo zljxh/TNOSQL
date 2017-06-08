@@ -11,7 +11,6 @@ CREATE TABLE `n_user` (
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8
 
 库2：
-
 CREATE TABLE `t_user` (
   `user_id` int(11) NOT NULL AUTO_INCREMENT,
   `user_name` varchar(20) NOT NULL,
